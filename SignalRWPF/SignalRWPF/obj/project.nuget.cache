@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "3F4ziHbW+gZ+sH+mEWv2eCFBcM246Ba4aX5R3dJluo9V/O7rcRcQQVbcwZ1VvP2qWD5r3d1QvTloUol6QjOx5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SERVER\\source\\repos\\SignalRWPF\\SignalRWPF\\SignalRWPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SERVER\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\6.0.7\\microsoft.aspnetcore.connections.abstractions.6.0.7.nupkg.sha512",
+    "C:\\Users\\SERVER\\.nuget\\packages\\microsoft.aspnetcore.http.connections.client\\6.0.7\\microsoft.aspnetcore.http.connections.client.6.0.7.nupkg.sha512",
+    "C:\\Users\\SERVER\\.nuget\\packages\\microsoft.aspnetcore.http.connections.common\\6.0.7\\microsoft.aspnetcore.http.connections.common.6.0.7.nupkg.sha512",
+    "C:\\Users\\SERVER\\.nuget\\packages\\microsoft.aspnetcore.signalr.client\\6.0.7\\microsoft.aspnetcore.signalr.client.6.0.7.nupkg.sha512",
+    "C:\\Users\\SERVER\\.nuget\\packages\\microsoft.aspnetcore.signalr.client.core\\6.0.7\\microsoft.aspnetcore.signalr.client.core.6.0.7.nupkg.sha512",
+    "C:\\Users\\SERVER\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\6.0.7\\microsoft.aspnetcore.signalr.common.6.0.7.nupkg.sha512",
+    "C:\\Users\\SERVER\\.nuget\\packages\\microsoft.aspnetcore.signalr.protocols.json\\6.0.7\\microsoft.aspnetcore.signalr.protocols.json.6.0.7.nupkg.sha512",
+    "C:\\Users\\SERVER\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\SERVER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\SERVER\\.nuget\\packages\\microsoft.extensions.features\\6.0.7\\microsoft.extensions.features.6.0.7.nupkg.sha512",
+    "C:\\Users\\SERVER\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\SERVER\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\SERVER\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\SERVER\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\SERVER\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\SERVER\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
+    "C:\\Users\\SERVER\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\SERVER\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

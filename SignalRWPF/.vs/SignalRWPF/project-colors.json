@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "487ec355-2a0d-4e3f-89c9-dcd0bad0ee14": {
+      "ProjectGuid": "487ec355-2a0d-4e3f-89c9-dcd0bad0ee14",
+      "DisplayName": "SignalRWPF",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

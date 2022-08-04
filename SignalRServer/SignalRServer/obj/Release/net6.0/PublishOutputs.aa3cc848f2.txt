@@ -1,0 +1,9 @@
+D:\Workspace\SignalR\Final\SignalRServer\SignalRServer\obj\Release\net6.0\PubTmp\Out\SignalRServer.exe
+D:\Workspace\SignalR\Final\SignalRServer\SignalRServer\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Workspace\SignalR\Final\SignalRServer\SignalRServer\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Workspace\SignalR\Final\SignalRServer\SignalRServer\obj\Release\net6.0\PubTmp\Out\SignalRServer.dll
+D:\Workspace\SignalR\Final\SignalRServer\SignalRServer\obj\Release\net6.0\PubTmp\Out\SignalRServer.deps.json
+D:\Workspace\SignalR\Final\SignalRServer\SignalRServer\obj\Release\net6.0\PubTmp\Out\SignalRServer.runtimeconfig.json
+D:\Workspace\SignalR\Final\SignalRServer\SignalRServer\obj\Release\net6.0\PubTmp\Out\SignalRServer.pdb
+D:\Workspace\SignalR\Final\SignalRServer\SignalRServer\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Workspace\SignalR\Final\SignalRServer\SignalRServer\obj\Release\net6.0\PubTmp\Out\System.Net.WebSockets.WebSocketProtocol.dll

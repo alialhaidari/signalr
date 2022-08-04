@@ -1,0 +1,132 @@
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\SignalRClient.exe
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\SignalRClient.deps.json
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\SignalRClient.runtimeconfig.json
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\SignalRClient.dll
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\ref\SignalRClient.dll
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\SignalRClient.pdb
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Features.dll
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.csproj.AssemblyReference.cache
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.Form1.resources
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.csproj.GenerateResource.cache
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.AssemblyInfoInputs.cache
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.AssemblyInfo.cs
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.csproj.CoreCompileInputs.cache
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.csproj.CopyComplete
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.dll
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\ref\SignalRClient.dll
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.pdb
+C:\Users\SERVER\source\repos\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.genruntimeconfig.cache
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\bin\Debug\net6.0-windows\SignalRClient.exe
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\bin\Debug\net6.0-windows\SignalRClient.deps.json
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\bin\Debug\net6.0-windows\SignalRClient.runtimeconfig.json
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\bin\Debug\net6.0-windows\SignalRClient.dll
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\bin\Debug\net6.0-windows\ref\SignalRClient.dll
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\bin\Debug\net6.0-windows\SignalRClient.pdb
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Features.dll
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.csproj.AssemblyReference.cache
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.Form1.resources
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.csproj.GenerateResource.cache
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.AssemblyInfoInputs.cache
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.AssemblyInfo.cs
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.csproj.CoreCompileInputs.cache
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.csproj.CopyComplete
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.dll
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\obj\Debug\net6.0-windows\ref\SignalRClient.dll
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.pdb
+C:\Users\SERVER\source\repos\SignalRClient2\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.genruntimeconfig.cache
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\SignalRClient.exe
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\SignalRClient.deps.json
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\SignalRClient.runtimeconfig.json
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\SignalRClient.dll
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\ref\SignalRClient.dll
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\SignalRClient.pdb
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Features.dll
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.csproj.AssemblyReference.cache
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.Form1.resources
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.csproj.GenerateResource.cache
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.AssemblyInfoInputs.cache
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.AssemblyInfo.cs
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.csproj.CoreCompileInputs.cache
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.csproj.CopyComplete
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.dll
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\ref\SignalRClient.dll
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.pdb
+C:\Users\SERVER\Desktop\Signal R\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.genruntimeconfig.cache
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\SignalRClient.exe
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\SignalRClient.deps.json
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\SignalRClient.runtimeconfig.json
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\SignalRClient.dll
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\ref\SignalRClient.dll
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\SignalRClient.pdb
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Client.dll
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.dll
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Client.Core.dll
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Features.dll
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.csproj.AssemblyReference.cache
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.csproj.GenerateResource.cache
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.AssemblyInfoInputs.cache
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.AssemblyInfo.cs
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.csproj.CoreCompileInputs.cache
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.csproj.CopyComplete
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.dll
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\ref\SignalRClient.dll
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.pdb
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.genruntimeconfig.cache
+D:\Workspace\SignalR\Final\SignalRClient\SignalRClient\obj\Debug\net6.0-windows\SignalRClient.Main.resources

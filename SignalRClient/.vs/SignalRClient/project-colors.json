@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "33ff200f-1122-4a74-95e5-16fe152e4497": {
+      "ProjectGuid": "33ff200f-1122-4a74-95e5-16fe152e4497",
+      "DisplayName": "SignalRClient",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
